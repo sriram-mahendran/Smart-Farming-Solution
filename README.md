@@ -8,7 +8,7 @@ This project uses:
 - **Flutter** → for mobile app frontend  
 - **MongoDB Atlas** → for database
 
-# For detailed information refer project report in the root directory of repository.
+## For detailed information refer project report in the root directory of repository.
 
 # Prerequisites
 1) Python 3.8+.
